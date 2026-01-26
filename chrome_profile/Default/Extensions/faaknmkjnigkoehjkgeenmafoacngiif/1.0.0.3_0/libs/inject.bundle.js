@@ -1,0 +1,1 @@
+(async()=>{parent.postMessage("inject-script-into-source","*"),chrome.runtime.onMessage.addListener(((t,e,s)=>("set_data_custom"===t.action&&(document.dispatchEvent(new CustomEvent("set_data_custom",{detail:t.data})),s({status:!0})),!0)))})();

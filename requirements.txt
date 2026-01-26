@@ -1,0 +1,12 @@
+streamlit
+selenium
+pandas
+openpyxl
+webdriver-manager
+requests
+undetected-chromedriver
+setuptools
+cloudscraper
+bs4
+selenium_stealth
+
