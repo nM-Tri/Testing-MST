@@ -1,5 +1,5 @@
-2026/01/20-21:59:57.624 28a47 Reusing MANIFEST /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/MANIFEST-000001
-2026/01/20-21:59:57.624 28a47 Recovering log #3
-2026/01/20-21:59:57.626 28a47 (ignoring error) /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/000003.log: dropping 12811 bytes; Corruption: checksum mismatch
-2026/01/20-21:59:57.629 28a47 (ignoring error) /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/000003.log: dropping 12 bytes; Corruption: missing start of fragmented record(2)
-2026/01/20-21:59:57.630 28a47 Reusing old log /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/000003.log 
+2026/01/27-20:49:32.246 29fa4 Reusing MANIFEST /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/MANIFEST-000001
+2026/01/27-20:49:32.247 29fa4 Recovering log #3
+2026/01/27-20:49:32.247 29fa4 (ignoring error) /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/000003.log: dropping 12811 bytes; Corruption: checksum mismatch
+2026/01/27-20:49:32.250 29fa4 (ignoring error) /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/000003.log: dropping 12 bytes; Corruption: missing start of fragmented record(2)
+2026/01/27-20:49:32.253 29fa4 Reusing old log /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Site Characteristics Database/000003.log 

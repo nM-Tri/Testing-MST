@@ -86,3 +86,4 @@ Nếu quá trình cào bị gián đoạn (mất mạng, lỗi trình duyệt, t
 
 - Không tắt cửa sổ Chrome được mở tự động trong quá trình chạy.
 - Nếu gặp lỗi liên tục với Cloudflare, hãy thử thay đổi Proxy hoặc tắt Fast Mode để chạy chậm hơn nhưng ổn định hơn.
+- Để sử dụng proxy thuận lợi thì nên sử dụng extension lúc mở browswer, đồng thời ưu tiên sử dụng proxy xoay để tránh bị chặn.

@@ -1,3 +1,5 @@
-2026/01/20-21:59:57.644 28a4b Reusing MANIFEST /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/01/20-21:59:57.653 28a4b Recovering log #1415
-2026/01/20-21:59:57.654 28a4b Reusing old log /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Local Storage/leveldb/001415.log 
+2026/01/27-20:49:32.275 29fb7 Reusing MANIFEST /home/w1nhch1/All-Tools/MST-Crawl/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/27-20:49:32.284 29fb7 Recovering log #1419
+2026/01/27-20:49:32.284 29fb7 Level-0 table #1422: started
+2026/01/27-20:49:32.290 29fb7 Level-0 table #1422: 15826 bytes OK
+2026/01/27-20:49:32.294 29fb7 Delete type=0 #1419
