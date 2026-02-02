@@ -49,7 +49,7 @@ Công cụ tự động thu thập thông tin doanh nghiệp từ trang web `mas
 
 3.  **Cấu hình (Tùy chọn):**
     - **Extension**: Nếu cần dùng extension (ví dụ để giải captcha), tải lên file `.zip` của extension đó.
-    - **Proxy (Tính năng này em đang update lại) **:
+    - **Proxy**: (Tính năng này em đang update lại):
         - Chọn "Manual List (File)" để tải lên file `.txt` chứa danh sách proxy (mỗi dòng một proxy `ip:port`).
         - Chọn "No Proxy" nếu chạy trực tiếp bằng IP của máy.
     - **Fast Mode**: Tích chọn "⚡ Fast Mode (Cloudscraper)" để tăng tốc độ (khuyên dùng).
